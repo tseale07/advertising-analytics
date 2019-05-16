@@ -8,6 +8,9 @@
 - hibernate
 
 ## Using the Application
+### Java
+- Make sure the version of Java running in the terminal is 1.8
+
 ### Set up postgres
 - service postgresql start
 - psql postgres
