@@ -1,0 +1,4 @@
+.ProductDataRow:nth-child(even) {
+    background-color: #dddddd;
+}
+
